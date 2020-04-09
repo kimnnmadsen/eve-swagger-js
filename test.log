@@ -1,0 +1,1121 @@
+
+> eve-swagger@0.3.3 test /home/kim/github/eve-swagger-js
+> jest
+
+
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        0s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        1s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...mail.spec.ts
+ RUNS  ...character-corporation.spec.ts
+ RUNS  ...structures.spec.ts
+ RUNS  ...solar-systems.spec.ts
+ RUNS  ...fleet.spec.ts
+ RUNS  ...types.spec.ts
+
+Test Suites: 0 of 41 total
+Tests:       0 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...types.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 5 failed, 5 of 41 total
+Tests:       43 failed, 16 passed, 59 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...types.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 5 failed, 5 of 41 total
+Tests:       43 failed, 16 passed, 59 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...types.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 5 failed, 5 of 41 total
+Tests:       43 failed, 16 passed, 59 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...types.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 5 failed, 5 of 41 total
+Tests:       43 failed, 16 passed, 59 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...characters.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...types.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 5 failed, 5 of 41 total
+Tests:       43 failed, 16 passed, 59 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 7 failed, 7 of 41 total
+Tests:       88 failed, 17 passed, 105 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 7 failed, 7 of 41 total
+Tests:       88 failed, 17 passed, 105 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 7 failed, 7 of 41 total
+Tests:       88 failed, 17 passed, 105 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 7 failed, 7 of 41 total
+Tests:       88 failed, 17 passed, 105 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 7 failed, 7 of 41 total
+Tests:       88 failed, 17 passed, 105 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 7 failed, 7 of 41 total
+Tests:       88 failed, 17 passed, 105 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 7 failed, 7 of 41 total
+Tests:       88 failed, 17 passed, 105 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 7 failed, 7 of 41 total
+Tests:       88 failed, 17 passed, 105 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...corporations.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...contacts.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...alliances.spec.ts
+ RUNS  ...regions.spec.ts
+
+Test Suites: 7 failed, 7 of 41 total
+Tests:       88 failed, 17 passed, 105 total
+Snapshots:   0 total
+Time:        2s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...calendar.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 11 failed, 11 of 41 total
+Tests:       125 failed, 17 passed, 142 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...calendar.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 11 failed, 11 of 41 total
+Tests:       125 failed, 17 passed, 142 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...calendar.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 11 failed, 11 of 41 total
+Tests:       125 failed, 17 passed, 142 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...calendar.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 11 failed, 11 of 41 total
+Tests:       125 failed, 17 passed, 142 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...api.spec.ts
+ RUNS  ...calendar.spec.ts
+ RUNS  ...wars.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 11 failed, 11 of 41 total
+Tests:       125 failed, 17 passed, 142 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...calendar.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 13 failed, 13 of 41 total
+Tests:       137 failed, 17 passed, 154 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...calendar.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 13 failed, 13 of 41 total
+Tests:       137 failed, 17 passed, 154 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...calendar.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 13 failed, 13 of 41 total
+Tests:       137 failed, 17 passed, 154 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...calendar.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 13 failed, 13 of 41 total
+Tests:       137 failed, 17 passed, 154 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...calendar.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 13 failed, 13 of 41 total
+Tests:       137 failed, 17 passed, 154 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...calendar.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 13 failed, 13 of 41 total
+Tests:       137 failed, 17 passed, 154 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...calendar.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 13 failed, 13 of 41 total
+Tests:       137 failed, 17 passed, 154 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...calendar.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...search.spec.ts
+ RUNS  ...constellations.spec.ts
+ RUNS  ...window.spec.ts
+
+Test Suites: 13 failed, 13 of 41 total
+Tests:       137 failed, 17 passed, 154 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...autopilot.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 16 failed, 1 passed, 17 of 41 total
+Tests:       150 failed, 24 passed, 174 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...autopilot.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 16 failed, 1 passed, 17 of 41 total
+Tests:       150 failed, 24 passed, 174 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...autopilot.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 16 failed, 1 passed, 17 of 41 total
+Tests:       150 failed, 24 passed, 174 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...autopilot.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 16 failed, 1 passed, 17 of 41 total
+Tests:       150 failed, 24 passed, 174 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...autopilot.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 16 failed, 1 passed, 17 of 41 total
+Tests:       150 failed, 24 passed, 174 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...autopilot.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...fittings.spec.ts
+ RUNS  ...stations.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 16 failed, 1 passed, 17 of 41 total
+Tests:       150 failed, 24 passed, 174 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 18 failed, 2 passed, 20 of 41 total
+Tests:       156 failed, 28 passed, 184 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 18 failed, 2 passed, 20 of 41 total
+Tests:       156 failed, 28 passed, 184 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 18 failed, 2 passed, 20 of 41 total
+Tests:       156 failed, 28 passed, 184 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 18 failed, 2 passed, 20 of 41 total
+Tests:       156 failed, 28 passed, 184 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 18 failed, 2 passed, 20 of 41 total
+Tests:       156 failed, 28 passed, 184 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 18 failed, 2 passed, 20 of 41 total
+Tests:       156 failed, 28 passed, 184 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...factions.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...dogma.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...opportunities.spec.ts
+
+Test Suites: 18 failed, 2 passed, 20 of 41 total
+Tests:       156 failed, 28 passed, 184 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 21 failed, 2 passed, 23 of 41 total
+Tests:       167 failed, 28 passed, 195 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 21 failed, 2 passed, 23 of 41 total
+Tests:       167 failed, 28 passed, 195 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 21 failed, 2 passed, 23 of 41 total
+Tests:       167 failed, 28 passed, 195 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 21 failed, 2 passed, 23 of 41 total
+Tests:       167 failed, 28 passed, 195 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 21 failed, 2 passed, 23 of 41 total
+Tests:       167 failed, 28 passed, 195 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 21 failed, 2 passed, 23 of 41 total
+Tests:       167 failed, 28 passed, 195 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...agents.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...sovereignty.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...wormholes.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 21 failed, 2 passed, 23 of 41 total
+Tests:       167 failed, 28 passed, 195 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...graphics.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 24 failed, 2 passed, 26 of 41 total
+Tests:       174 failed, 28 passed, 202 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...graphics.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 24 failed, 2 passed, 26 of 41 total
+Tests:       174 failed, 28 passed, 202 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...graphics.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 24 failed, 2 passed, 26 of 41 total
+Tests:       174 failed, 28 passed, 202 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...graphics.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 24 failed, 2 passed, 26 of 41 total
+Tests:       174 failed, 28 passed, 202 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...graphics.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 24 failed, 2 passed, 26 of 41 total
+Tests:       174 failed, 28 passed, 202 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...graphics.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 24 failed, 2 passed, 26 of 41 total
+Tests:       174 failed, 28 passed, 202 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...graphics.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 24 failed, 2 passed, 26 of 41 total
+Tests:       174 failed, 28 passed, 202 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...graphics.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 24 failed, 2 passed, 26 of 41 total
+Tests:       174 failed, 28 passed, 202 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...bookmarks.spec.ts
+ RUNS  ...colonies.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...graphics.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...industry.spec.ts
+
+Test Suites: 24 failed, 2 passed, 26 of 41 total
+Tests:       174 failed, 28 passed, 202 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 28 failed, 2 passed, 30 of 41 total
+Tests:       182 failed, 28 passed, 210 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 28 failed, 2 passed, 30 of 41 total
+Tests:       182 failed, 28 passed, 210 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 28 failed, 2 passed, 30 of 41 total
+Tests:       182 failed, 28 passed, 210 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 28 failed, 2 passed, 30 of 41 total
+Tests:       182 failed, 28 passed, 210 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...killmail.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...planetary-interaction.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 28 failed, 2 passed, 30 of 41 total
+Tests:       182 failed, 28 passed, 210 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 30 failed, 2 passed, 32 of 41 total
+Tests:       184 failed, 28 passed, 212 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 30 failed, 2 passed, 32 of 41 total
+Tests:       184 failed, 28 passed, 212 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 30 failed, 2 passed, 32 of 41 total
+Tests:       184 failed, 28 passed, 212 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 30 failed, 2 passed, 32 of 41 total
+Tests:       184 failed, 28 passed, 212 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 30 failed, 2 passed, 32 of 41 total
+Tests:       184 failed, 28 passed, 212 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 30 failed, 2 passed, 32 of 41 total
+Tests:       184 failed, 28 passed, 212 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 30 failed, 2 passed, 32 of 41 total
+Tests:       184 failed, 28 passed, 212 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 30 failed, 2 passed, 32 of 41 total
+Tests:       184 failed, 28 passed, 212 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...moons.spec.ts
+ RUNS  ...planets.spec.ts
+ RUNS  ...stargates.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...insurance.spec.ts
+
+Test Suites: 30 failed, 2 passed, 32 of 41 total
+Tests:       184 failed, 28 passed, 212 total
+Snapshots:   0 total
+Time:        3s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...incursions.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...races.spec.ts
+
+Test Suites: 34 failed, 2 passed, 36 of 41 total
+Tests:       188 failed, 28 passed, 216 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...incursions.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...races.spec.ts
+
+Test Suites: 34 failed, 2 passed, 36 of 41 total
+Tests:       188 failed, 28 passed, 216 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...incursions.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...races.spec.ts
+
+Test Suites: 34 failed, 2 passed, 36 of 41 total
+Tests:       188 failed, 28 passed, 216 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...incursions.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...races.spec.ts
+
+Test Suites: 34 failed, 2 passed, 36 of 41 total
+Tests:       188 failed, 28 passed, 216 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...incursions.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...races.spec.ts
+
+Test Suites: 34 failed, 2 passed, 36 of 41 total
+Tests:       188 failed, 28 passed, 216 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...incursions.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...races.spec.ts
+
+Test Suites: 34 failed, 2 passed, 36 of 41 total
+Tests:       188 failed, 28 passed, 216 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...incursions.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...races.spec.ts
+
+Test Suites: 34 failed, 2 passed, 36 of 41 total
+Tests:       188 failed, 28 passed, 216 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...incursions.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...races.spec.ts
+
+Test Suites: 34 failed, 2 passed, 36 of 41 total
+Tests:       188 failed, 28 passed, 216 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...freeports.spec.ts
+ RUNS  ...incursions.spec.ts
+ RUNS  ...swagger.spec.ts
+ RUNS  ...bloodlines.spec.ts
+ RUNS  ...races.spec.ts
+
+Test Suites: 34 failed, 2 passed, 36 of 41 total
+Tests:       188 failed, 28 passed, 216 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...swagger.spec.ts
+
+Test Suites: 38 failed, 2 passed, 40 of 41 total
+Tests:       192 failed, 28 passed, 220 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...swagger.spec.ts
+
+Test Suites: 38 failed, 2 passed, 40 of 41 total
+Tests:       192 failed, 28 passed, 220 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+ RUNS  ...swagger.spec.ts
+
+Test Suites: 38 failed, 2 passed, 40 of 41 total
+Tests:       192 failed, 28 passed, 220 total
+Snapshots:   0 total
+Time:        4s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A

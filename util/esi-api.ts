@@ -1,22 +1,7 @@
 import * as swagger from 'swagger-schema-official';
 import * as path from 'path';
 import * as fs from 'fs';
-
-// sync-request does not come with its own types, so define a minimal set
-type SyncRequest = (method: 'get' | 'post' | 'put' | 'delete' | 'head',
-    url: string) => SyncResponse;
-
-interface SyncResponse {
-  statusCode: number;
-  headers: { [index: string]: string };
-  // sync-request technically is string in browser, Buffer in node but in this
-  // module is only ever used in node dev environment
-  body: Buffer;
-
-  getBody: () => Buffer;
-}
-
-const request: SyncRequest = require('sync-request');
+var request = require('then-request');
 
 // An addendum to the swagger specification; while Schemas have a $ref
 // property, it also appears as if Parameters can. This is not encoded in the
@@ -750,8 +735,10 @@ export class API {
 
   static getRemoteAPI() {
     if (!remoteApi) {
-      let json = request('get', 'https://esi.evetech.net/_latest/swagger.json');
-      remoteApi = new API(json.getBody().toString('utf8'));
+//      var json = request('GET', 'https://esi.evetech.net/_latest/swagger.json');
+	request('GET', 'https://esi.evetech.net/_latest/swagger.json').done(function (json) {
+		remoteApi = new API(json.getBody('utf8'));
+	});
     }
     return remoteApi;
   }

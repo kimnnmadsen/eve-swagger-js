@@ -32,7 +32,6 @@ function expectKills(warId, mails) {
       'page': page
     }, { returns: result });
 
-
     for (let i = 0; i < result.length; i++) {
       agent.__expectRoute('get_killmails_killmail_id_killmail_hash', {
         'killmail_id': result[i].killmail_id,
